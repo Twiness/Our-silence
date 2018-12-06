@@ -1,0 +1,564 @@
+@charset "UTF-8";
+/* CSS Document */
+
+* {
+    margin:auto;
+}
+
+.clear {
+    clear:both;
+}
+
+.tab {
+    text-indent: 24px;
+}
+
+#wrapper {
+    height:1990px;
+    background-color: #e5e5e5;
+    padding:0px 0px 0px 0px;
+}
+
+#whiteheader {
+    position: absolute;
+    width: 1020px;
+    height: 200px;
+    left: 171px;
+    top: 0px;
+    background-color: #ffffff;
+}
+
+#our_silence {
+    position: absolute;
+    width: 392px;
+    height: 68px;
+    left: 314px;
+    top: 50px;
+    font-family: "Times New Roman",Georgia, Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 72px;
+    color: #000000;
+}
+
+#topline {
+    position: absolute;
+    width: 960px;
+    height: 0px;
+    left: 28px;
+    top: 145px;
+    border: 1px solid #000000;
+}
+
+#date {
+    position: absolute;
+    width: 116px;
+    height: 18px;
+    left: 45px;
+    top: 153px;
+    font-family: "Times New Roman",Georgia, Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 14px;
+    color: #000000;
+}
+
+#lateedition {
+    position:absolute;
+    width: 81px;
+    height: 18px;
+    left: 894px;
+    top: 153px;
+    font-family: "Times New Roman",Georgia,Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 15px;
+    color: #000000;
+}
+
+#underline {
+    position: absolute;
+    width: 960px;
+    height: 0px;
+    left: 28px;
+    top: 172px;
+    border: 1px solid #000000;
+}
+
+#mlkquote {
+    position: absolute;
+    width: 645px;
+    height: 17px;
+    left: 205px;
+    top: 153px;
+    font-family: "Times New Roman",Georgia, Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 14px;
+    color: #000000;
+}
+
+#topleft {
+    position: absolute;
+    width: 670px;
+    height: 730px;
+    left: 171px;
+    top: 230px;
+    background: #FFFFFF;
+    display:block;
+}
+
+h1 {
+    position: absolute;
+    width: 600px;
+    height: 88px;
+    left: 37px;
+    top: 20px;
+    font-family: "Times New Roman",Georgia, Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 36px;
+}
+
+#lcredit{
+    position: absolute;
+    width: 300px;
+    height: 14px;
+    left: 37px;
+    top: 465px;
+    font-family: "Helvetica Neue Light","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 12px;
+    color: #000000;
+}
+
+#topleft hr{
+    position: absolute;
+    width: 600px;
+    height: 0px;
+    left: 33px;
+    top: 484px;
+    border: 1px solid #000000;
+}
+
+#tlp1{
+    position: absolute;
+    width: 175px;
+    height: 192px;
+    left: 37px;
+    top: 500px;
+    font-family:"Helvetica Neue Light","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 14px;
+    color: #000000;
+}
+
+#tlp2 {
+    position: absolute;
+    width: 175px;
+    height: 204px;
+    left: 245px;
+    top: 500px;
+    font-family: "Helvetica Neue Light","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 14px;
+    color: #000000;
+}
+
+#tlp3 {
+    position: absolute;
+    width: 175px;
+    height: 204px;
+    left: 458px;
+    top: 500px;
+    font-family: "Helvetica Neue Light","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 14px;
+    color: #000000;
+}
+
+#topleft a{
+    position: absolute;
+    width: 400px;
+    height: 14px;
+    left: 33px;
+    top: 695px;
+    font-family: "Helvetica Neue Light","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 13px;
+    color: #485AFD;
+}
+
+
+#leftvideo{
+    position: absolute;
+    left: 33px;
+    top: 114px;
+}
+/* topright session starts */
+#topright {
+    position: absolute;
+    width: 320px;
+    height: 730px;
+    left: 871px;
+    top: 230px;
+    background: #FFFFFF;
+}
+
+#topright h1{
+    position: absolute;
+    width: 262px;
+    height: 135px;
+    left: 29px;
+    top: 20px;
+    font-family: "Times New Roman",Georgia, Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 36px;
+    color: #000000;
+}
+
+#rightvideo {
+    position: absolute;
+    left: 29px;
+    top: 161px;
+}
+
+#rcredit{
+    position: absolute;
+    width: 253px;
+    height: 14px;
+    left: 29px;
+    top: 321px;
+    font-family: "Helvetica Neue Light","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 12px;
+    color: #000000;
+}
+
+#topright hr{
+    position: absolute;
+    width: 262px;
+    height: 0px;
+    left: 29px;
+    top: 339px;
+    border: 1px solid #000000;
+}
+
+#trp1 {
+    position: absolute;
+    width: 248px;
+    height: 297px;
+    left: 36px;
+    top: 372px;
+    font-family: "Helvetica Neue Light","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 14px;
+    color: #000000;
+}
+#topright a {
+    position: absolute;
+    width: 276px;
+    height: 29px;
+    left: 29px;
+    top: 685px;
+    font-family:"Helvetica Neue Light","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 13px;
+    font-size: 13px;
+    color: #485AFD;
+}
+
+#bottomleft{
+    position: absolute;
+    width: 320px;
+    height: 750px;
+    left: 171px;
+    top: 990px;
+    background: #FFFFFF;
+}
+
+#bottomleft img {
+    position: absolute;
+    width: 262px;
+    height: 197px;
+    left: 31px;
+    top: 154px;
+}
+
+
+#bottomleft h1{
+    position: absolute;
+    width: 260px;
+    height: 127px;
+    left: 31px;
+    top: 21px;
+    font-family: "Times New Roman",Georgia, Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 36px;
+    color: #000000;
+}
+
+#bottomleft a{
+    position: absolute;
+    width: 260px;
+    height: 32px;
+    left: 30px;
+    top: 695px;
+    font-family: "Helvetica Neue Light","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 13px;
+    font-size: 13px;
+    color: #485AFD;
+}
+
+#bottomleft hr {
+    position: absolute;
+    width: 268px;
+    height: 0px;
+    left: 29px;
+    top: 394px;
+    border: 1px solid #000000;
+}
+
+#blp1 {
+    position: absolute;
+    width: 262px;
+    height: 267px;
+    left: 29px;
+    top: 410px;
+    font-family: "Helvetica Neue Light","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 14px;
+    color: #000000;
+}
+#blcredit {
+    position: absolute;
+    width: 250px;
+    height: 36px;
+    left: 29px;
+    top: 358px;
+    font-family: "Helvetica Neue Light","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 14px;
+    color: #000000;
+}
+
+#bottomright {
+    position: absolute;
+    width: 670px;
+    height: 420px;
+    left: 521px;
+    top: 990px;
+    background: #FFFFFF;
+}
+
+#bottomright h1{
+    position: absolute;
+    width: 612px;
+    height: 86px;
+    left: 25px;
+    top: 21px;
+    font-family: "Times New Roman",Georgia, Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 36px;
+}
+
+#bottomright img{
+    position: absolute;
+    left: 25px;
+    top: 107px;
+}
+
+#brp1 {
+    position: absolute;
+    width: 270px;
+    height: 286px;
+    left: 372px;
+    top: 110px;
+    font-family:"Helvetica Neue Light","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 14px;
+    color: #000000;
+}
+#brcredit {
+    position: absolute;
+    width: 350px;
+    height: 14px;
+    left: 25px;
+    top: 345px;
+    font-family: "Helvetica Neue Light","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 14px;
+    color: #000000;
+}
+
+#bottomright hr{
+    position: absolute;
+    width: 319px;
+    height: 0px;
+    left: 25px;
+    top: 365px;
+    border: 1px solid #000000;
+}
+#bottomright a{
+    position: absolute;
+    width: 318px;
+    height: 23px;
+    left: 31px;
+    top: 378px;
+    font-family: "Helvetica Neue Light","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 13px;
+    font-size: 13px;
+    color: #485AFD;
+}
+
+#mysilence {
+    position: absolute;
+    width: 670px;
+    height: 300px;
+    left: 521px;
+    top: 1440px;
+    background: #FFFFFF;
+}
+
+#mysilence h1 {
+    position: absolute;
+    width: 173px;
+    height: 45px;
+    left: 80px;
+    top: 16px;
+    font-family: "Times New Roman",Georgia, Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 36px;
+    color: #000000;
+}
+
+
+#byline{
+    position: absolute;
+    width: 90px;
+    height: 18px;
+    left: 121px;
+    top: 63px;
+    font-family: "Times New Roman",Georgia, Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 14px;
+    text-decoration-line: underline;
+    color: #000000;
+}
+
+#s1 {
+    position: absolute;
+    width: 292px;
+    height: 187px;
+    left: 36px;
+    top: 93px;
+    font-family: "Helvetica Neue Light","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 14px;
+    color: #000000;
+}
+
+#s2 {
+    position: absolute;
+    width: 284px;
+    height: 250px;
+    left: 357px;
+    top: 46px;
+    font-family: "Helvetica Neue Light","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 14px;
+    color: #000000;
+}
+#footer {
+    position: absolute;
+    width: 1020px;
+    height: 130px;
+    left: 171px;
+    top: 1770px;
+    background: #FFFFFF;
+}
+
+#bottomtopline {
+    position: absolute;
+    width: 960px;
+    height: 0px;
+    left: 34px;
+    top: 53px;
+    border: 1px solid #000000;
+}
+
+#bottomsilence {
+    position: absolute;
+    width: 94px;
+    height: 28px;
+    left: 463px;
+    top: 23px;
+    font-family: "Times New Roman",Georgia, Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 18px;
+    color: #000000;
+}
+
+
+#jfkquote {
+    position: absolute;
+    width: 855px;
+    height: 28px;
+    left: 82px;
+    top: 60px;
+    font-family: "Times New Roman",Georgia, Helvetica,Arial,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 14px;
+    color: #000000;
+}
+
